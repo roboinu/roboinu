@@ -1,7 +1,7 @@
 # RoboInu (RBIF) Contracts
 
 ### Contract Address: 0x7b32e70e8d73ac87c1b342e063528b2930b15ceb
-### White Paper: [RoboInu Whitepaper](https://github.com/roboinu/roboinu-contracts/blob/main/documents/White-Paper.pdf)
+### White Paper: [RoboInu Whitepaper V2.0](https://github.com/roboinu/roboinu-contracts/blob/main/documents/RGI-WhitePaper.pdf)
 
 ## Smart Contract
 ### ERC-20
